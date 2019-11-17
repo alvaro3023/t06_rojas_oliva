@@ -1,0 +1,2 @@
+# t06_rojas_oliva
+trabajo_06_validadores_en_python
